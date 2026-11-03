@@ -1,0 +1,2 @@
+Adicionar aqui o DER e os fluxogramas finais do grupo.
+O diagrama original citado nas conversas não foi incluído neste pacote porque não foi possível confirmar qual imagem disponível corresponde à versão final. Não substitua por um diagrama recriado sem validação do grupo.

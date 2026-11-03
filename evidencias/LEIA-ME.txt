@@ -1,0 +1,1 @@
+Adicionar capturas de tela da execução do script, testes de consultas e histórico de colaboração.
