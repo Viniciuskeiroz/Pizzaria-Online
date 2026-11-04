@@ -48,7 +48,7 @@ Cada tabela possui uma finalidade específica e relacionamentos definidos para m
 
 O projeto está organizado em pastas para facilitar a localização dos documentos, diagramas, scripts SQL e demais materiais desenvolvidos durante o trabalho.
 
-
+```
 Pizzaria-Online/
 │
 ├── README.md
@@ -75,7 +75,7 @@ Pizzaria-Online/
 ├── evidencias/
 │
 └── apresentacao/
-
+```
 
 Além desses arquivos, a pasta `docs/` contém a documentação geral do script SQL e os demais documentos do projeto.
 
